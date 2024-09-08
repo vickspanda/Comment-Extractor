@@ -31,7 +31,7 @@ Given the following input in `example.c`:
 /*
  This is a multi-line comment.
  It explains the following function.
- */
+*/
 
 void helloWorld() {
     printf("Hello, World!"); // Print message
