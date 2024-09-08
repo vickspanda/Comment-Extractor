@@ -29,8 +29,8 @@ Given the following input in `example.c`:
 // This is a single-line comment
 
 /*
- * This is a multi-line comment.
- * It explains the following function.
+ This is a multi-line comment.
+ It explains the following function.
  */
 
 void helloWorld() {
