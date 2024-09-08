@@ -57,7 +57,7 @@ Print message
    gcc commentExtractor.c -o commentExtractor
    ```
 
-2. **Run the program** with a C file as an argument:
+2. **Run the program** with a C, C++, Java or Python file as an argument:
 
    ```bash
    ./commentExtractor example.c
