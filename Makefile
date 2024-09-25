@@ -1,2 +1,2 @@
 final:
-    gcc commentExtractor.c -o commentExtractor
+	gcc commentExtractor.c -o commentExtractor
