@@ -3,8 +3,9 @@
 #include<stdbool.h>
 
 
-// This Function Ensures the provided file has a `.c`, '.cpp', '.py'  or '.java' extension.
-// Returns `1` if the file is valid, otherwise `0`.
+/* This Function Ensures the provided file has a `.c`, '.cpp', '.py'  or '.java' extension.
+ * Returns `1` if the file is valid, otherwise `0`. 
+ */
 int checkForExtension(char *fileName)
 {
 	int len = strlen(fileName);
