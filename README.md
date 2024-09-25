@@ -54,7 +54,7 @@ Print message
 1. **Compile the program** using a C compiler:
 
    ```bash
-   gcc commentExtractor.c -o commentExtractor
+   make
    ```
 
 2. **Run the program** with a C, C++, Java, or Python file as an argument:
